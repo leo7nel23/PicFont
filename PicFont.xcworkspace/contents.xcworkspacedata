@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Utility">
+   </FileRef>
+   <FileRef
+      location = "group:Session">
+   </FileRef>
+   <FileRef
+      location = "group:PicFont/PicFont.xcodeproj">
+   </FileRef>
+</Workspace>
